@@ -1,0 +1,15 @@
+current directory: /Users/development/url-shortener/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190115-17375-1ydhrby.rb extconf.rb
+creating Makefile
+
+current directory: /Users/development/url-shortener/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/development/url-shortener/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/development/url-shortener/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190115-17375-tucjo2/bootsnap
