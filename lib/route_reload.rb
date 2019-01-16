@@ -1,4 +1,5 @@
 class RouteReload 
+
   def self.reload!
     Rails.application.routes.draw do
       Url.all.each do |url|

@@ -1,4 +1,5 @@
 class Url < ApplicationRecord
+
   belongs_to :user
 
   def shorten_url
